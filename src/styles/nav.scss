@@ -26,7 +26,7 @@
     text-transform: uppercase;
     color: $link-color-static;
 
-    transition: color 0.5s;
+    transition: color 0.5s ease-in-out;
 
     &:hover,
     &--is-active {
